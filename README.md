@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+Hi, I'm Kenneth! I'm an iOS developer who is passionate about building apps that make people's lives easier and more manageable, as well as healthier and more fulfilling. I love learning and I love creating!
+
+- 🔭 I’m currently working on an app to help me keep my yard healthy and green. 🌿
+- 📫 How to reach me: Find me on [Twitter](https://twitter.com/kennethjones91)! 🐦
 
 <!--
 **kennethjones1991/kennethjones1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
