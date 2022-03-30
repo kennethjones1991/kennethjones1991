@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-Hi, I'm Kenneth! I'm an iOS developer who is passionate about building apps that make people's lives easier and more manageable, as well as healthier and more fulfilling. I love learning and I love creating!
+Hi, I'm Kenneth! I'm an iOS developer who is passionate about building apps that enrich people's lives and just make life more fun! I love learning and I love creating!
 
-- 🔭 I’m currently working on an app to help me keep my yard healthy and green. 🌿
-- 📫 How to reach me: Find me on [Twitter](https://twitter.com/kennethjones91)! 🐦
+- 🔭 I’m currently working on the [Ultimate Pokedex](https://github.com/kennethjones1991/UltimateDex), an app to showcase what I can do and also guide every Pokemon Trainer to sure victory in their quest to catch 'em all! 🦋
+- 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/kenneth-jones-19910906/)! 💼
 
 <!--
 **kennethjones1991/kennethjones1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
